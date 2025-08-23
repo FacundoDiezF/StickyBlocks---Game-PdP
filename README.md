@@ -42,9 +42,9 @@ Usá la cabeza para juntar los bloques mientras buscás la manera de llegar a la
 
 ![ctrl](ImageReadme/Reset.png)
 
-R para reiniciar el nivel
+`R` Para reiniciar el nivel
 
-M para abrir el menú
+`M` Para abrir el menú
 
 ## Equipo de desarrollo:
 
@@ -54,5 +54,5 @@ M para abrir el menú
 - Osa Pochelu Valentin Rodrigo
 - Serrudo Jose Luis
   
-
+### [Juegalo aqui!](https://www.wollok.org/news/concurso2024/)
 [Conceptos teóricos aplicados en el TP](ConceptosTeoricos.md)
