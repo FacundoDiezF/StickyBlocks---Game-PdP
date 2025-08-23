@@ -54,5 +54,5 @@ Usá la cabeza para juntar los bloques mientras buscás la manera de llegar a la
 - Osa Pochelu Valentin Rodrigo
 - Serrudo Jose Luis
   
-### [Juegalo aqui!](https://www.wollok.org/news/concurso2024/)
+### [Juégalo aquí!](https://www.wollok.org/news/concurso2024/)
 [Conceptos teóricos aplicados en el TP](ConceptosTeoricos.md)
