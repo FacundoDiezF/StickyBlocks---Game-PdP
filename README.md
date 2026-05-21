@@ -1,4 +1,5 @@
-> UTN - Facultad Regional Buenos Aires - Materia Paradigmas de Programación
+> 🏅Ganadores del [**Concurso Wollok Game 2024**](https://www.wollok.org/news/concurso2024/)
+
 
 ![STICKY BLOCKS logo](assets/Logo.png)
 
@@ -52,7 +53,7 @@ Usá la cabeza para juntar los bloques mientras buscás la manera de llegar a la
 - Diez Forradellas Facundo
 - Hernandez Mateo Nicolas
 - Osa Pochelu Valentin Rodrigo
-- Serrudo Jose Luis
-  
-### [Juégalo aquí!](https://www.wollok.org/news/concurso2024/)
-[Conceptos teóricos aplicados en el TP](ConceptosTeoricos.md)
+
+## [` ¡Juégalo ahora! `](https://www.wollok.org/concurso/2024-o-tpjuego-bestiasalgoritmicas/)
+
+> UTN - Facultad Regional Buenos Aires - Materia Paradigmas de Programación - ([Conceptos teóricos aplicados en el TP](ConceptosTeoricos.md))
